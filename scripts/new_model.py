@@ -74,7 +74,7 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 parser.add_argument('--device', dest='device', default=device, choices=['cuda', 'cpu'],
                     help="Choose the device to run your code ['cuda', 'cpu'] (Default: cuda is available)")
 
-parser.add_argument('--model', dest='model', default='conformer', choices=['conformer', 'ast'],
+parser.add_argument('--model', dest='model', default='ast', choices=['conformer', 'ast'],
                     help="Choose the model you want to train ['conformer', 'ast']")
 
 args = parser.parse_args()
