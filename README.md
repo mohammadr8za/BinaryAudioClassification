@@ -3,9 +3,10 @@ Binary classificationb of audio sound using Conformer and AST model based on MFC
 
 TO include Conformer model in addition to the AST model follow the instructions mentioned below:
 
+clone [@confomrer](https://github.com/mohammadr8za/conformer.git) repository into your project directory:
 ```
 cd ../BinaryAudioClassification
-git clone [@conformer](https://github.com/mohammadr8za/conformer.git)
+git clone https://github.com/mohammadr8za/conformer.git
 ```
 then, in Terminal:
 
