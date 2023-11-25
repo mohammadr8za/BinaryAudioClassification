@@ -1,7 +1,7 @@
 # BinaryAudioClassification
 Binary classificationb of audio sound using Conformer and AST model based on MFCC features
 
-TO include Conformer model in addition to the AST model follow the instructions mentioned below:
+To include Conformer model in addition to the AST model follow the instructions mentioned below:
 
 clone [@confomrer](https://github.com/mohammadr8za/conformer.git) repository into your project directory:
 ```
