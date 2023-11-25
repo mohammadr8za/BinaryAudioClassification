@@ -1,0 +1,4 @@
+,dir,fold,sample_path,class
+31,D:\mreza\TestProjects\Python\BinaryAudioClassification\Data\DATA_VERSION1,ok,000003-1.bin,0
+15,D:\mreza\TestProjects\Python\BinaryAudioClassification\Data\DATA_VERSION1,not_ok,000016-0.bin,1
+9,D:\mreza\TestProjects\Python\BinaryAudioClassification\Data\DATA_VERSION1,not_ok,000010-0.bin,1

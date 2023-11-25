@@ -1,0 +1,2 @@
+DATA,#Epochs,LearningRate,Decay,BatchSize,Dropout,TrainAcc,ValidAcc,BestEpoch,TrainTime
+DATA_VERSION1,3,1e-05,0.985,64,0,0.3076923191547394,0.3333333432674408,2,4
