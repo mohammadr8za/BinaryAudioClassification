@@ -5,7 +5,7 @@ TO include Conformer model in addition to the AST model follow the instructions 
 
 ```
 cd ../BinaryAudioClassification
-git clone https://github.com/mohammadr8za/conformer.git
+git clone [@conformer](https://github.com/mohammadr8za/conformer.git)
 ```
 then, in Terminal:
 
