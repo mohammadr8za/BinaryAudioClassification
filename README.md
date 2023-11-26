@@ -38,7 +38,7 @@ You may also modify hyperparameters of the training algorithm using the followin
 | Model (choices) | --model |
 
 ## Outputs
-After running the training/testing program, its results will be strored in the [Experiments] folder with a specific ID which includes date and configuration of each particular run. Results include saving model in .pt format, confusion matrix, and loss/accuracy figures. Beside normalization parameters regarding the dataset used will bes stored in the folder related to each run with a .csv file 
+After running the training/testing program, its results will be strored in the [Experiments] folder with a specific ID which includes date and configuration of each particular run. Results include saving model in .pt format, confusion matrix, and loss/accuracy figures. Beside normalization parameters regarding the dataset used will bes stored in the folder related to each run with a .csv file.
 
 
 ## Conformer Inclusion
