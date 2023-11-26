@@ -8,8 +8,8 @@ Data required for training/testing is stored in binary files (.bin) and each fil
 First clone the repository in YOUR_LOCAL_DIRECTORY:
 
 ```
-cd [YOUR_LOCAL_DIRECTORY]
-git clone https://github.com/mohammadr8za/BinaryAudioClassification.git
+$ cd [YOUR_LOCAL_DIRECTORY]
+$ git clone https://github.com/mohammadr8za/BinaryAudioClassification.git
 ```
 then, run the code using following commands:
 
