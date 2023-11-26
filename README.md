@@ -2,10 +2,12 @@
 Binary classification of audio sound using Conformer and AST models based on MFCC features
 
 ## DATA
-Data required for training/testing is stored in binary files (.bin) and each file include 80 MFCC coefficient corresponding to 5 consequtive audio/speech frames (16 MFCC in each frame). In case you prefer to change storation type, then modifications in the Custom Dataset will also be required. So, it is recommended to save your data in binary files to prevent further modifications. 
-After stroring data in binary files they must be placed in the [Data] folder with the dataset ID or Version (e.g., DATA_VERSION1). you may create a number of datasets and place them into the [Data] folder. 
+Data required for training/testing is stored in binary files (.bin) and each file comprises 80 MFCC coefficients corresponding to 5 consequtive audio/speech frames (16 MFCC in each frame). In case you prefer to change the storation type, then modifications in the Custom Dataset will also be required. So, it is recommended to save your data in binary files to prevent requiring further modifications. 
+After stroring data in binary files they must be placed in the [Data] folder with the specific dataset ID or Version (e.g., DATA_VERSION1). 
 
-**Note:** your data must be placed in two different folders defining two classes for classification. 
+**NOTE1:** You may create a number of datasets and place them into the [Data] folder. 
+
+**Note2:** your data must be placed in two different folders defining two classes for classification. 
 
 ## How to run?
 First clone the repository in YOUR_LOCAL_DIRECTORY:
