@@ -37,6 +37,9 @@ You may also modify hyperparameters of the training algorithm using the followin
 | Device (choices) | --device |
 | Model (choices) | --model |
 
+## Outputs
+After running the training/testing program, its results will be strored in the [Experiments] folder with a specific ID which includes date and configuration of each particular run. Results include saving model in .pt format, confusion matrix, and loss/accuracy figures. 
+
 
 ## Conformer Inclusion
 To include Conformer model in addition to the AST model follow the instructions mentioned below:
