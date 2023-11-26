@@ -7,7 +7,7 @@ After stroring data in binary files they must be placed in the [Data] folder wit
 
 **NOTE1:** You may create a number of datasets and place them into the [Data] folder. 
 
-**Note2:** your data must be placed in two different folders defining two classes for classification. 
+**NOTE2:** your data must be placed in two different folders defining two classes for classification. 
 
 ## How to run?
 First clone the repository in YOUR_LOCAL_DIRECTORY:
