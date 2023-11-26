@@ -17,8 +17,20 @@ then, run the code using following commands:
 cd BinaryAudioClassification
 python new_model.py --dataset_root [YOUR_LOCAL_DIRECTORY/BinaryAudioClassification/Data] -d [DATASET_ID/DATASET_VERSION] 
 ```
-You may also modify hyperparameters of the training with the following commands:
+You may also modify hyperparameters of the training algorithm using the following commands:
 
+| HyperParameter (type) | Command | 
+| ------------- | ------------- |
+| Dataset root (string) | --dataset_root |
+| Dataset ID/Version (string) | -d / --dataset |
+| Learning Rate (float) | --lr |
+| Batch Size (list of integers) | -bs |
+| Dropout (list of floats) | -drop |
+| Gamma (list of floats) | -g |
+| Epochs (integer) | -e / --epoch |
+| Save Root (string) | -s / --save_root |
+| Device (choices) | --device |
+| Model (choices) | --model |
 
 
 ## Conformer Inclusion
