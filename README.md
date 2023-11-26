@@ -4,6 +4,7 @@ Binary classification of audio sound using Conformer and AST models based on MFC
 ## DATA
 Data required for training/testing is stored in binary files (.bin) and each file include 80 MFCC coefficient corresponding to 5 consequtive audio/speech frames (16 MFCC in each frame). In case you prefer to change storation type, then modifications in the Custom Dataset will also be required. So, it is recommended to save your data in binary files to prevent further modifications. 
 After stroring data in binary files they must be placed in the [Data] folder with the dataset ID or Version (e.g., DATA_VERSION1). you may create a number of datasets and place them into the [Data] folder. 
+
 **Note:** your data must be placed in two different folders defining two classes for classification. 
 
 ## How to run?
