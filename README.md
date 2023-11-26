@@ -19,7 +19,7 @@ python new_model.py --dataset_root [YOUR_LOCAL_DIRECTORY/BinaryAudioClassificati
 ```
 You may also modify hyperparameters of the training algorithm using the following commands:
 
-| HyperParameter (type) | Command | 
+| Hyperparameter (type) | Command | 
 | ------------- | ------------- |
 | Dataset root (string) | --dataset_root |
 | Dataset ID/Version (string) | -d / --dataset |
