@@ -23,7 +23,7 @@ You may also modify hyperparameters of the training algorithm using the followin
 | ------------- | ------------- |
 | Dataset root (string) | --dataset_root |
 | Dataset ID/Version (string) | -d / --dataset |
-| Learning Rate (float) | --lr |
+| Learning Rate (float) | -lr |
 | Batch Size (list of integers) | -bs |
 | Dropout (list of floats) | -drop |
 | Gamma (list of floats) | -g |
