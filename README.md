@@ -36,3 +36,8 @@ python new_model.py --model 'conformer'
 ```
 
 
+## Author
+* Mohammad Reza Peyghan [@mohammadr8za](https://github.com/mohammadr8za)
+* Contact mohammdreza.peyghan@gmail.com
+
+
